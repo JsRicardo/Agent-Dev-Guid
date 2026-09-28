@@ -2,14 +2,8 @@
 
 这份讲义由本工作区编写，以 pi 的真实实现作为对照对象，覆盖 Agent 工程的主要设计位置。
 
-pi 的安装在：
 
-```
-/Users/ricardolee/.nvm/versions/node/v22.22.2/lib/node_modules/@earendil-works/pi-coding-agent
-~/.pi/agent/npm/node_modules/pi-subagents
-```
-
-这份讲义讲设计取舍，标注实现位置与关键结构。逐行代码的分析与从零实现放在 `.scratch/super-agent-practical-notes/`。
+这份讲义讲设计取舍，标注实现位置与关键结构。逐行代码的分析与从零实现放在 `../super-agent-practical-notes/`。
 
 每一讲包含五个部分：生产中会遇到的问题、底层机制、实现要点、pi 的做法、常见错误，末尾附自检问题。
 

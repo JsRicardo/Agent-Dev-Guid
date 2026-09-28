@@ -58,7 +58,7 @@ super-agent/
 ## 对照用的 pi 源码位置
 
 ```
-/Users/ricardolee/.nvm/versions/node/v22.22.2/lib/node_modules/@earendil-works/pi-coding-agent
+@earendil-works/pi-coding-agent
 ~/.pi/agent/npm/node_modules/pi-feishu-lark     飞书 Channel 扩展
 ~/.pi/agent/npm/node_modules/pi-memory          记忆系统扩展
 ~/.pi/agent/npm/node_modules/pi-web-access      联网检索扩展
@@ -130,4 +130,4 @@ super-agent/
 
 按顺序做，每一讲结束时把「验收」那一步跑一遍再进入下一讲。第 4 讲之后每一讲都会改动工具层或上下文层，前面的验收步骤需要重跑一次，否则问题会累积到后面才暴露。
 
-需要先理解设计取舍时，对照 `.scratch/agent-fundamentals-notes/`：那份讲义按六大支柱展开，讲的是每个位置为什么这样选，代码细节留给这份实战讲义。
+需要先理解设计取舍时，对照 `../agent-fundamentals-notes/`：那份讲义按六大支柱展开，讲的是每个位置为什么这样选，代码细节留给这份实战讲义。
